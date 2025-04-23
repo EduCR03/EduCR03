@@ -2,7 +2,7 @@
 
 Software Engineer graduated from INATEL, with solid experience in embedded systems, IoT connectivity, and the development of robust solutions for demanding environments such as precision agriculture.
 
-🔧 I work with **ESP32**, **FreeRTOS**, **C/C++**, **Python**, **MQTT**, **REST**, **GNSS**, **RTC**, **OTA**, embedded web servers, and fuzzy logic to ensure field connectivity reliability.
+🔧 I work with **ESP32**, **FreeRTOS**, **C/C++**, **Python**, **MQTT**, **REST**, **GNSS**, **RTC**, **OTA**, embedded web servers.
 
 🎓 Currently pursuing a **Master's in Telecommunications** at **INATEL**, with a focus on **IoT and Machine Learning**.
 
