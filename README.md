@@ -20,7 +20,7 @@ Software Engineer graduated from INATEL, with solid experience in embedded syste
 - Modular firmware architecture and complete technical documentation  
 - IoT solutions using MQTT over mobile LTE networks  
 
-### 🌱 Highlight Projects at Soil Tecnologia
+**🌱 Highlight Projects at Soil Tecnologia**
 - 🛰️ **Pointer iCrop** – Remote monitoring firmware for center pivots with fuzzy logic classification of signal quality, GPS tracking, RTC synchronization, and LTE connectivity.
 - 🔄 **Firmware OTA via MQTT** – Binary-based over-the-air update system with CRC32 verification and automatic fallback on failure.
 - 🌐 **Embedded Web Server on ESP32** – Local configuration portal over Wi-Fi AP, integrated with persistent settings using NVS.
