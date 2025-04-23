@@ -14,20 +14,18 @@ Software Engineer graduated from INATEL, with solid experience in embedded syste
 
 **Embedded Software Developer at Soil Tecnologia**  
 `2022 - Present`  
-- Firmware development for ESP32 (FreeRTOS + ESP-IDF)
-- Communication with SIMCom modems via AT commands
-- Technical support and full-cycle testing in agricultural automation systems
-- Modular firmware architecture and complete technical documentation
-- IoT solutions using MQTT over mobile LTE networks
+- Firmware development for ESP32 (FreeRTOS + ESP-IDF)  
+- Communication with SIMCom modems via AT commands  
+- Technical support and full-cycle testing in agricultural automation systems  
+- Modular firmware architecture and complete technical documentation  
+- IoT solutions using MQTT over mobile LTE networks  
 
----
+### 🌱 Highlight Projects at Soil Tecnologia
+- 🛰️ **Pointer iCrop** – Remote monitoring firmware for center pivots with fuzzy logic classification of signal quality, GPS tracking, RTC synchronization, and LTE connectivity.
+- 🔄 **Firmware OTA via MQTT** – Binary-based over-the-air update system with CRC32 verification and automatic fallback on failure.
+- 🌐 **Embedded Web Server on ESP32** – Local configuration portal over Wi-Fi AP, integrated with persistent settings using NVS.
+- 📡 **Real-Time Telemetry System** – Sensor-based telemetry framework using watchdog protection, LTE fallback logic, and efficient MQTT publishing.
 
-## 🌱 Highlight Projects
-
-- 🛰️ **Pointer iCrop by Soil Tecnologia** – Remote monitoring firmware for center pivots with fuzzy logic, GPS tracking, RTC sync, and LTE connectivity.
-- 🔄 **Firmware OTA via MQTT** – Binary-based over-the-air updates with CRC32 validation and automatic fallback handling.
-- 🌐 **ESP32 Embedded Web Server** – Configurable local interface via Wi-Fi Access Point, using NVS for persistent configuration.
-- 📡 **MQTT Telemetry System** – Real-time telemetry using sensors, watchdog protection, and optimized low-power LTE connectivity.
 
 ---
 
