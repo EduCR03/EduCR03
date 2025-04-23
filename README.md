@@ -59,7 +59,7 @@ In addition to embedded systems and IoT, I’m passionate about **game developme
 - Modeling and animation with **Blender**
 - Special interest in **real-time rendering**, **physics in games**, and **3D immersion**
 
-💡 I believe game development enhances creativity, graphical optimization, and real-time interaction — all of which also benefit embedded and IoT systems.
+💡 I believe game development enhances creativity, graphical optimization, and real-time interaction.
 
 ---
 
