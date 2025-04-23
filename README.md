@@ -65,11 +65,11 @@ In addition to embedded systems and IoT, I’m passionate about **game developme
 
 ## 📊 GitHub Stats
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduCR03&show_icons=true&theme=tokyonight&count_private=true)
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduCR03&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduCR03&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=EduCR03&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=EduCR03&theme=tokyonight&hide_border=true&dates=all)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=EduCR03&theme=tokyonight&no-frame=true&column=7)](https://github.com/EduCR03)
 
